@@ -23,3 +23,40 @@ go.work.sum
 
 # env file
 .env
+
+# === Go Build Files ===
+/bin/
+/build/
+*.exe
+*.out
+*.test
+
+# === Go Modules and Cache ===
+/vendor/
+go.sum
+
+# === VS Code Settings ===
+.vscode/
+
+# === Dataset and Result Files ===
+/data/*.csv
+/results/*.csv
+/results/*.png
+
+# === Simulation - SPIN/Promela Generated Files ===
+simulation/pan.c
+simulation/pan.h
+simulation/pan.m
+simulation/pan.p
+simulation/pan.t
+simulation/*.swp
+
+# === Temporary Files ===
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# === Word Documents (optional) ===
+Informe.docx
+
