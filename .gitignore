@@ -39,7 +39,6 @@ go.sum
 .vscode/
 
 # === Dataset and Result Files ===
-/data/*.csv
 /results/*.csv
 /results/*.png
 
