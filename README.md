@@ -26,9 +26,9 @@ Todo el código fuente, simulaciones, resultados y documentación están organiz
 - [Ver Video de Presentación (Google Drive)](https://drive.google.com/file/d/1z_NX4KjNhyq9HE8pq02OeMBXL27-gbsl/view?usp=sharing)
 
 ## Estructura de proyecto
-data/ → Dataset utilizado y procesado
-results/ → Resultados de benchmark y precisión
-simulation/ → Simulación en Promela y análisis con SPIN
-src/ → Código fuente en Go
+<br>data/ → Dataset utilizado y procesado
+<br>results/ → Resultados de benchmark y precisión
+<br>simulation/ → Simulación en Promela y análisis con SPIN
+<br>src/ → Código fuente en Go
 
 
